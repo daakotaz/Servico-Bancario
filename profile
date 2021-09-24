@@ -1,0 +1,1 @@
+web: nom rub start:prod
